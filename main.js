@@ -1,2 +1,2 @@
 document.getElementById("download-button").click()
-setInterval(close, 200);
+window.location.replace("https://google.com");
